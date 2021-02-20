@@ -1,0 +1,5 @@
+shell=bash
+
+disable=SC2034
+disable=SC2154
+disable=SC2155
